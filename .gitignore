@@ -1,0 +1,14 @@
+# Godot 4 specific ignores
+.godot/
+*.import
+
+# DO NOT PUSH COMPILED FILES OR BUILD FOLDERSö
+bin/
+godot-cpp/bin/
+godot-cpp/gen/
+*.dll
+*.a
+*.o
+*.obj
+*.exp
+*.lib
